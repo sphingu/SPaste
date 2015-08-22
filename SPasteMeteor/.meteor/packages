@@ -7,3 +7,26 @@
 meteor-platform
 autopublish
 insecure
+# Role Base Authorization
+alanning:roles
+accounts-password
+accounts-ui
+useraccounts:bootstrap
+momentjs:moment
+nemo64:bootstrap
+less
+fortawesome:fontawesome
+iron:router
+meteorhacks:subs-manager
+meteorhacks:kadira
+meteorhacks:zones
+ccorcos:transitioner
+browser-policy
+msavin:mongol
+chrismbeckett:toastr
+reywood:iron-router-ga
+ryw:blog
+markdown
+yogiben:admin
+aldeed:autoform
+mpowaga:autoform-summernote
